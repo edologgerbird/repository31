@@ -14,7 +14,7 @@
 4. Getting Started
 5. Acknowledgments
 
-## Abount the Project
+## About the Project
 
 In this project, we aim to explore different fraud detection models in case of credit card fraud transactions. Hence, we have chosen 3 research papers that have proposed machine learning models in this field to tackle this problem.
 

@@ -7,6 +7,28 @@
 - Tan Yi Bing (A0204181U)
 - Yap Hui Yi (A0203707M)
 
+## Table of Contents
+1. Authors
+2. About the Project
+3. Codes and Reources Used
+4. Getting Started
+5. Acknowledgments
+
+## Abount the Project
+
+In this project, we aim to explore different fraud detection models in case of credit card fraud transactions. Hence, we have chosen 3 research papers that have proposed machine learning models in this field to tackle this problem.
+
+The 3 papers chosen are as follows:
+1. Sequence classification for credit-card fraud detection
+    The paper phrased the fraud detection problem as a sequence classification task using LSTMs and compared with a RandomForest Classifier
+2. AI2: Training a big data machine to defend
+    The AI2 system combines four main components - a big data behavioural analytics platform, an ensemble of outlier detection methods, an analyst feedback mechanism and a supervised learning module, to detect fraudulent transactions.
+3. FraudMiner: A Novel Credit Card Fraud Detection Model Based on Frequent Itemset Mining 
+    FraudMiner first constructs a pattern database using Frequent Itemset Mining to form legal and fraud patterns of each customer. The model then classifies incoming transactions by comparing them with the pattern databases.
+    
+For each research paper, we did an implementation of the proposed model using Credit Card Transactions Fraud Detection Dataset and evaluated their performance on the dataset.
+
+This dataset is simulated by [Sparkov Data Generation](https://github.com/namebrandon/Sparkov_Data_Generation), and it covers credit cards of 1000 customers doing transactions with a pool of 800 merchants.
 
 ## Codes and Resources Used
 
@@ -33,23 +55,7 @@ The requirements.txt file should lists Python libraries that your notebooks depe
 ```pip install -r requirements.txt```
 
 
-## Table of Contents
 
-## Abount the Project
-
-In this project, we aim to explore different fraud detection models in case of credit card fraud transactions. Hence, we have chosen 3 research papers that have proposed machine learning models in this field to tackle this problem.
-
-The 3 papers chosen are as follows:
-1. Sequence classification for credit-card fraud detection
-    The paper phrased the fraud detection problem as a sequence classification task using LSTMs and compared with a RandomForest Classifier
-2. AI2: Training a big data machine to defend
-    The AI2 system combines four main components - a big data behavioural analytics platform, an ensemble of outlier detection methods, an analyst feedback mechanism and a supervised learning module, to detect fraudulent transactions.
-3. FraudMiner: A Novel Credit Card Fraud Detection Model Based on Frequent Itemset Mining 
-    FraudMiner first constructs a pattern database using Frequent Itemset Mining to form legal and fraud patterns of each customer. The model then classifies incoming transactions by comparing them with the pattern databases.
-    
-For each research paper, we did an implementation of the proposed model using Credit Card Transactions Fraud Detection Dataset and evaluated their performance on the dataset.
-
-This dataset is simulated by [Sparkov Data Generation](https://github.com/namebrandon/Sparkov_Data_Generation), and it covers credit cards of 1000 customers doing transactions with a pool of 800 merchants.
 
 ## Acknowledgements
 

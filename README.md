@@ -8,8 +8,8 @@
 - Yap Hui Yi (A0203707M)
 
 ## Table of Contents
-1. [Authors](## Authors)
-2. [About the Project](## About the Project)
+1. [Authors](Authors)
+2. [About the Project](About the Project)
 3. Codes and Resources Used
 4. Getting Started
 5. Acknowledgments

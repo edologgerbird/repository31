@@ -1,4 +1,4 @@
-# BT4012 Group 31 Final Project Repository
+# BT4012 Final Project Repository
 
 ## Authors:
 

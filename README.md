@@ -16,7 +16,7 @@
 
 **Python Framework Requirements**: ```pip install -r requirements.txt```
 
-**Data Set:** [Credit Card Transactions Fraud Detection Dataset] (https://www.kaggle.com/kartik2112/fraud-detection)
+**Data Set:** [Credit Card Transactions Fraud Detection Dataset](https://www.kaggle.com/kartik2112/fraud-detection)
 
 ## Getting Started
 

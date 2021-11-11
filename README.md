@@ -38,6 +38,21 @@ The requirements.txt file should lists Python libraries that your notebooks depe
 
 ## Acknowledgements
 
+We would like to express thanks to the authors of the papers we have selected. 
+
+For [Sequence classification for credit-card fraud detection](https://doi.org/10.1016/j.eswa.2018.01.037),
+
+Johannes Jurgovsky, Michael Granitzer, Konstantin Ziegler, Sylvie Calabretto, Pierre-Edouard Portier, LiyunHe-Guelton, Olivier Caelen 
+
+For [AI2: Training a big data machine to defend](https://doi.org/10.1109/BigDataSecurity-HPSC-IDS.2016.79),
+
+Kalyan Veeramachaneni, Ignacio Arnaldo,Alfredo Cuesta-Infante, Vamsi Korrapati, Costas Bassias, Ke Li
+
+For [FraudMiner: A Novel Credit Card Fraud Detection Model Based on Frequent Itemset Mining](https://doi.org/10.1155/2014/252797),
+
+K. R. Seeja and Masoumeh Zareapoor
+
+We would also like to thank Kartik Shenoy, the owner of the  [Credit Card Transactions Fraud Detection Dataset](https://www.kaggle.com/kartik2112/fraud-detection), for allowing usage of the dataset. 
 
 
 
@@ -45,16 +60,3 @@ The requirements.txt file should lists Python libraries that your notebooks depe
 
 
 
-
-
-Group Members: 
-Loh Hong Tak Edmund (A0199943H),
-Tan Yi Bing (A0204181U),
-Yap Hui Yi (A0203707M),
-
-Papers Selected: 
-Paper 1: Sequence classification for credit-card fraud detection (Jurgovsky et. al., 2018)
-
-Paper 2: AI2: Training a big data machine to defend (Veeramachaneni et. al., 2016)
-
-Paper 3: FraudMiner: A Novel Credit Card Fraud Detection Model Based on Frequent Itemset Mining (Seeja & Zareapoor, 2014)

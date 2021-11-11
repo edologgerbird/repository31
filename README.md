@@ -8,9 +8,9 @@
 - Yap Hui Yi (A0203707M)
 
 ## Table of Contents
-1. Authors
-2. About the Project
-3. Codes and Reources Used
+1. [Authors](## Authors)
+2. [About the Project](## About the Project)
+3. Codes and Resources Used
 4. Getting Started
 5. Acknowledgments
 
@@ -53,8 +53,6 @@ Make sure you have installed all of the following prerequisites on your developm
 The requirements.txt file should lists Python libraries that your notebooks depend on, and they will be installed using:
 
 ```pip install -r requirements.txt```
-
-
 
 
 ## Acknowledgements

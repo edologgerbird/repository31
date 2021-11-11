@@ -22,7 +22,7 @@
 
 Make sure you have installed all of the following prerequisites on your development machine:
 - Python 3.9.5
-- Jupyter Notebook
+- Jupyter Notebook 6.4.4
 
 ### Installation
 
@@ -47,7 +47,7 @@ The 3 papers chosen are as follows:
     
 For each research paper, we did an implementation of the proposed model using Credit Card Transactions Fraud Detection Dataset and evaluated their performance on the dataset.
 
-This dataset is simulated by Sparkov Data Generation, and it covers credit cards of 1000 customers doing transactions with a pool of 800 merchants.
+This dataset is simulated by [Sparkov Data Generation](https://github.com/namebrandon/Sparkov_Data_Generation), and it covers credit cards of 1000 customers doing transactions with a pool of 800 merchants.
 
 ## Acknowledgements
 

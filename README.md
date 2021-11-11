@@ -12,7 +12,7 @@
 2. [About the Project](#about-the-project)
 3. [Codes and Resources Used](#codes-and-resources-used)
 4. [Getting Started](#getting-started)
-5. [Acknowledgments](#acknowledgments)
+5. [Acknowledgments](#acknowledegments)
 
 ## About the Project
 

@@ -14,18 +14,28 @@
 
 **Packages:** pandas, numpy, matplotlib, collections, seaborn, imblearn, sklearn, tensorflow, keras, warnings, apyori, gc
 
-**Python Framework Requirements**: ```pip install -r requirements.txt```
-
 **Data Set:** [Credit Card Transactions Fraud Detection Dataset](https://www.kaggle.com/kartik2112/fraud-detection)
 
 ## Getting Started
+
+### Prerequisites
+
+Make sure you have installed all of the following prerequisites on your development machine:
+- Python 3.9.5
+- Jupyter Notebook
+
+### Installation
+
+The requirements.txt file should lists Python libraries that your notebooks depend on, and they will be installed using:
+```pip install -r requirements.txt```
+
 
 ## Table of Contents
 
 ## Abount the Project
 
 
-
+## Acknowledgements
 
 
 

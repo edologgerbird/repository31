@@ -26,7 +26,7 @@ The 3 papers chosen are as follows:
 3. FraudMiner: A Novel Credit Card Fraud Detection Model Based on Frequent Itemset Mining 
     FraudMiner first constructs a pattern database using Frequent Itemset Mining to form legal and fraud patterns of each customer. The model then classifies incoming transactions by comparing them with the pattern databases.
     
-For each research paper, we did an implementation of the proposed model using Credit Card Transactions Fraud Detection Dataset and evaluated their performance on the dataset.
+For each research paper, we did an implementation of the proposed model using [Credit Card Transactions Fraud Detection Dataset](https://www.kaggle.com/kartik2112/fraud-detection) and evaluated their performance on the dataset.
 
 This dataset is simulated by [Sparkov Data Generation](https://github.com/namebrandon/Sparkov_Data_Generation), and it covers credit cards of 1000 customers doing transactions with a pool of 800 merchants.
 

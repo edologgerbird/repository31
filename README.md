@@ -32,6 +32,16 @@ For each research paper, we did an implementation of the proposed model using [C
 
 This dataset is simulated by [Sparkov Data Generation](https://github.com/namebrandon/Sparkov_Data_Generation), and it covers credit cards of 1000 customers doing transactions with a pool of 800 merchants.
 
+## Results
+
+| Model                                     | F2-Score      | Precision  | Recall     |
+| -------------                             | ------------- | ---------- | ---------- | 
+| FraudMiner                                | 0.712098      | 0.367589   | 0.930000   |
+| LSTM + RandomForest Feature Selection     | 0.653061      | 0.780488   | 0.784314   |
+| AI2 (after 15 timesteps)                  | 0.509356      | 0.671233   | 0.480392   |
+| Baseline RandomForest                     | 0.206767      | 1.000000   | 0.215686   |
+
+
 ## Codes and Resources Used
 
 **Python Version:** 3.9.5

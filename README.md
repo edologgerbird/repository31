@@ -32,6 +32,16 @@ For each research paper, we did an implementation of the proposed model using [C
 
 This dataset is simulated by [Sparkov Data Generation](https://github.com/namebrandon/Sparkov_Data_Generation), and it covers credit cards of 1000 customers doing transactions with a pool of 800 merchants.
 
+## Methodology
+
+1. We have implemented the respective proposed algorithms in simplified models. 
+2. We trained and tested the models on the Credit Card Fraud Detection dataset. 
+3. We compared the three different models using the metrics F2-Score, Precision and Recall, to determine which model can most effectively detect fraudulent transactions.
+a. F2-Score is used as it emphasises minimising False Negatives (Lee, 2020), which is costly in fraud detection. 
+F2 score = (1+22)*Precision*Recall22 * Precision + Recall
+4. We mined for insights through our comparisons and identified assumptions and potential limitations in our simplified implementations.
+
+
 ## Results
 
 | Model                                     | F2-Score      | Precision  | Recall     |

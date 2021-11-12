@@ -34,6 +34,8 @@ For each research paper, we did an implementation of the proposed model using [C
 
 This dataset is simulated by [Sparkov Data Generation](https://github.com/namebrandon/Sparkov_Data_Generation), and it covers credit cards of 1000 customers doing transactions with a pool of 800 merchants.
 
+For Full Project Methodology and Analysis, please refer to our Project Report [here](https://github.com/edologgerbird/repository31/blob/main/report31.pdf).
+
 ### Methodology
 
 1. We have implemented the respective proposed algorithms in simplified models. 
@@ -55,7 +57,7 @@ This dataset is simulated by [Sparkov Data Generation](https://github.com/namebr
 | AI2 (after 15 timesteps)                  | 0.509356      | 0.671233   | 0.480392   |
 | Baseline RandomForest                     | 0.206767      | 1.000000   | 0.215686   |
 
-For Full Project Methodology and Analysis, please refer to our Project Report [here](https://github.com/edologgerbird/repository31/blob/main/report31.pdf).
+
 
 
 ## Codes and Resources Used

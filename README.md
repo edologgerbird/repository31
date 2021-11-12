@@ -55,6 +55,8 @@ This dataset is simulated by [Sparkov Data Generation](https://github.com/namebr
 | AI2 (after 15 timesteps)                  | 0.509356      | 0.671233   | 0.480392   |
 | Baseline RandomForest                     | 0.206767      | 1.000000   | 0.215686   |
 
+For Full Project Methodology and Analysis, please refer to our Project Report here.
+
 
 ## Codes and Resources Used
 

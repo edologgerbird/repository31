@@ -18,6 +18,8 @@
 
 ## About the Project
 
+### Overview
+
 In this project, we aim to explore different fraud detection models in case of credit card fraud transactions. Hence, we have chosen 3 research papers that have proposed machine learning models in this field to tackle this problem.
 
 The 3 papers chosen are as follows:
@@ -32,7 +34,7 @@ For each research paper, we did an implementation of the proposed model using [C
 
 This dataset is simulated by [Sparkov Data Generation](https://github.com/namebrandon/Sparkov_Data_Generation), and it covers credit cards of 1000 customers doing transactions with a pool of 800 merchants.
 
-## Methodology
+### Methodology
 
 1. We have implemented the respective proposed algorithms in simplified models. 
 2. We trained and tested the models on the Credit Card Fraud Detection dataset. 
@@ -44,7 +46,7 @@ This dataset is simulated by [Sparkov Data Generation](https://github.com/namebr
 4. We mined for insights through our comparisons and identified assumptions and potential limitations in our simplified implementations.
 
 
-## Results
+### Results
 
 | Model                                     | F2-Score      | Precision  | Recall     |
 | -------------                             | ------------- | ---------- | ---------- | 

@@ -39,7 +39,7 @@ This dataset is simulated by [Sparkov Data Generation](https://github.com/namebr
 3. We compared the three different models using the metrics F2-Score, Precision and Recall, to determine which model can most effectively detect fraudulent transactions.
         a. F2-Score is used as it emphasises minimising False Negatives (Lee, 2020), which is costly in fraud detection.
         
-![equation](https://latex.codecogs.com/svg.image?\bg_white&space;F2&space;Score&space;=&space;\frac{(1&plus;2^{2})*Precision*Recall}{2^2&space;*&space;Precision&space;&plus;&space;Recall})
+![equation](https://latex.codecogs.com/gif.image?\dpi{100}&space;\bg_white&space;F2&space;Score&space;=&space;\frac{(1&plus;2^{2})*Precision*Recall}{2^2&space;*&space;Precision&space;&plus;&space;Recall})
         
 4. We mined for insights through our comparisons and identified assumptions and potential limitations in our simplified implementations.
 

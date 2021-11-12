@@ -52,7 +52,7 @@ Make sure you have installed all of the following prerequisites on your developm
 
 ### Installation
 
-The requirements.txt file lists Python libraries that your notebooks depend on, and they will be installed using:
+The requirements.txt file contains Python libraries that your notebooks depend on, and they will be installed using:
 
 ```pip install -r requirements.txt```
 

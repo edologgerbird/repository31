@@ -1,5 +1,7 @@
 # BT4012 Final Project Repository
 
+## Investigating 3 types of Fraud Detection Methods in Detecting Credit Card Fraud
+
 ## Authors:
 
 **Group 31**
